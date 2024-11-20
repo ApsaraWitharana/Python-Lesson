@@ -1,0 +1,12 @@
+===============task in class 1 ========== 2024/11/07 ============
+
+
+newveriable = "jone" = legal notgood
+new_veriable = "jone" = legal good
+_new_veriable = "jone = legal good
+newVeriable = "jone" = legal notgood
+NEWVERIABLE = "jone" = legal notgood
+newveriable2 = "jone" = legal notgood
+2newveriable = "jone" = illegal
+new-veriable = "jone" = illegal
+new veriable = "jone" = illegal

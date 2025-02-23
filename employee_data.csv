@@ -1,0 +1,11 @@
+EmployeeID,Age,Salary,Department,ExperienceYears
+1,45,75000.0,HR,12
+2,38,82000.0,Engineering,8
+3,52,95000.0,Finance,20
+4,29,60000.0,Marketing,4
+5,41,88000.0,Engineering,10
+6,56,105000.0,Finance,25
+7,33,72000.0,HR,6
+8,48,91000.0,Engineering,15
+9,27,55000.0,Marketing,2
+10,50,98000.0,Finance,18
